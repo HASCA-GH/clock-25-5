@@ -3,19 +3,29 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="caja">
+        <div className="main-title">
+          <header className="App-header">
+            <p><code>25 + 5 clock</code> </p>
+          </header>
+          </div>
+        <div className='control-superior'>
+          <div className='control-superior-caja'> 
+            <div id='break-label'>Break Lenght</div>
+            <div className='subcontroles'>
+              <div className='botones'>🔼</div>
+              <div className='botones'>🔽</div>
+            </div>
+          </div>
+          <div className='control-superior-caja'> 
+            <div id='session-label'>Session Lenght</div>
+            <div className='subcontroles'>
+              <div className='botones'>🔼</div>
+              <div className='botones'>🔽</div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
