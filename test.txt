@@ -1,0 +1,99 @@
+Break 1 Session 2
+02:00 
+01:00 Rojo
+00:00 Se activa break 1 / beep rojo
+01:00
+00:00 se activa Session 2 beep white
+02:00
+01:00 rojo
+00:00 Se activa break 1 / beep rojo
+01:00 
+00:00 Se activa Session 2 / beep white
+02:00
+01:00 rojo
+00:00 Se activa break 1 / beep rojo
+01:00 
+00:00 Se activa session 2 / beep white
+02:00 
+01:00 rojo
+00:00 Se activa break 1 / beep rojo
+01:00 
+00:00 Se activa session 2 / beep white
+02:00 
+01:00 rojo
+00:00 Se activa break 1 / beep rojo
+01:00 
+00:00 Se activa session 2 / beep white
+02:00
+01:00 rojo
+00:00 Se activa break 1 / beep rojo
+01:00 
+00:00 Se activa session 2 / beep white
+02:00
+01:00 rojo
+00:00 Se activa break 1 / beep rojo
+01:00
+00:00 Se activa session 2 / beep white
+02:00
+01:00 rojo
+00:00 Se activa break 1 / beep rojo
+01:00 
+00:00 Se activa session 2 / beep white
+02:00
+01:00 rojo
+00:00 Se activa break 1 / beep rojo
+01:00
+00:00 Se activa session 2 / beep white
+
+
+
+
+
+Break 1   Session 4
+
+04:00
+
+03:00 
+02:00
+01:00 Break rojo 
+
+00:00 Activate the break +1 beep
+01:00
+00:00 Se activa contador a 4:00
+04:00
+03:00
+02:00
+01:00 Break rojo
+00:00 Activate the break +1 beep
+01:00 rojo
+00:00 Se activa contador a 4:00 
+04:00
+03:00
+02:00
+01:00 rojo
+00:00 Se activa break +1 beep
+01:00 Se activa session 4:00
+04:00
+03:00
+02:00
+01:00 rojo
+00:00 Se activa Break +1 beep
+01:00 
+00:00 Se activa session 4:00 
+04:00
+03:00
+02:00
+01:00 Se activa Break +1 beep 
+00:00 Se activa session 4:00 
+04:00 
+03:00 
+02:00
+01:00 rojo 
+00:00 Se activa Break +1 beep 
+01:00
+00:00 Se activa session 4:00 
+04:00
+03:00
+
+
+
